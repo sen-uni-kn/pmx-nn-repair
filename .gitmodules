@@ -1,0 +1,3 @@
+[submodule "specrepair"]
+	path = specrepair
+	url = https://github.com/sen-uni-kn/specrepair.git
