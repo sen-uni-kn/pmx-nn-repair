@@ -7,7 +7,7 @@ by David Boetius, Dominic Stefan Bräm, Marc Pfister, Stefan Leue,
 and Gilbert Koch.
 
 You can download our datasets and trained and repaired neural networks
-on [Zenondo](10.5281/zenodo.8143636). 
+on [Zenondo](https://doi.org/10.5281/zenodo.8143636). 
 The Zenodo upload also contains a virtual machine for running the
 experiments in this repository.
 You can also run the experiments on your own Ubuntu machine.
